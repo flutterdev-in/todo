@@ -1,5 +1,3 @@
-<h1 align="center"> 👋,Algoriza Internship project </h1>
-
 ## 📱 ToDO App
 
 Using Local DataBase Sqflite and Statemangment Bloc and local notifications .
